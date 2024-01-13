@@ -1,3 +1,3 @@
 # Demo
 
-ini buat belajar aja ya
+ini buat belajar aja ya.
